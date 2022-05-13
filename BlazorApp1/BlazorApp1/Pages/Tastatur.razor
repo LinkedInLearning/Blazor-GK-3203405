@@ -5,7 +5,7 @@
 <h3>Tastatur</h3>
 
 <div>
-	<input type="text" @onkeypress="VerarbeiteTaste">
+	<input type="text" @bind-value="wert" @bind-value:event="oninput" @onkeypress="VerarbeiteTaste">
 </div>
 
 <div>
