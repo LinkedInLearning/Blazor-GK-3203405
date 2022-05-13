@@ -1,0 +1,24 @@
+﻿@page "/tastatur"
+
+<PageTitle>Tastaturereignisse</PageTitle>
+
+<h3>Tastatur</h3>
+
+<div>
+	<input type="text" @onkeypress="VerarbeiteTaste">
+</div>
+
+<div>
+	Gedrückte Taste: @taste <br>
+	Wert im Feld: @wert
+</div>
+
+@code {
+	private string taste = string.Empty;
+	private string wert = string.Empty;
+
+	private void VerarbeiteTaste(KeyboardEventArgs e) {
+		taste = e.Key;
+	}
+
+}

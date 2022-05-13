@@ -1,6 +1,4 @@
-using Microsoft.AspNetCore.Components;
-using Microsoft.AspNetCore.Components.Web;
-using BlazorApp2.Data;
+using BlazorApp1.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
