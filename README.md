@@ -2,7 +2,7 @@
 
 Dies ist das Repository für den **LinkedIn Learning** Kurs `Blazor Grundkurs`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
 
-![image](https://user-images.githubusercontent.com/61017085/189325338-836dac86-cec5-4f7d-b420-8c24e37ee0b0.png) 
+![COURSENAME][lil-thumbnail-url] 
 
 Bei Blazor handelt es sich um ein Open-Source-Webframework von Microsoft, dessen ausführbarer Programmcode mittels C# und der Razor-Syntax ausgeführt wird anstatt mit JavaScript. In diesem LinkedIn-Learning-Kurs sehen Sie, für wen sich der Einsatz lohnen kann und welche Programmiermodelle es gibt. Christian Wenz zeigt zum Start, wie Sie Blazor installieren, eine geeignete Entwicklungsumgebung finden und ein Projekt starten. Sie lernen die Unterschiede zwischen Blazor Server und Blazor WebAssembly kennen, erleben Blazor im Hybrid-Einsatz mit WinForms sowie mobile Anwendungen mit MAUI in Blazor. Mit der Hilfe von Challenge/Solution-Filmen können Sie das Erlernte immer wieder testen und Ihre Lösung auch gleich mit der angebotenen Solution vergleichen.
 
@@ -32,3 +32,4 @@ Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linke
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/blazor-grundkurs
+[lil-thumbnail-url]: https://cdn.lynda.com/course/3203405/3203405-1662616200596-16x9.jpg
